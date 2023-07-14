@@ -1,0 +1,16 @@
+.styleCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    height: 300px !important
+}
+.card img{
+    padding-top: 10px;
+}
